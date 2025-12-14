@@ -1,5 +1,4 @@
-# Cell 2: DEPLOYMENT FILES
-%%writefile requirements.txt
+
 streamlit==1.36.0
 pandas==2.2.2
 plotly==5.22.0
